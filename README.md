@@ -1,4 +1,4 @@
-  ## Overview
+ ## Overview
  [10fastfingers](https://10fastfingers.com/) clone for desktop
  
  ## Download
@@ -24,12 +24,12 @@
  ##### SFML
  ###### Arch Linux, Manjaro and other [Arch-based distros](https://wiki.archlinux.org/index.php/Arch-based_distributions)
  
- `pacman -Syu sfml`
+ `sudo pacman -Syu sfml`
  
  ###### CentOS, Fedora and other [RPM-based distros](https://en.wikipedia.org/wiki/Category:RPM-based_Linux_distributions)
  
- `pacman -Syu sfml`
+ `sudo yum -Syu sfml`
  
  ###### Debian, Elementary OS, Linux Mint, Ubuntu and its [flavors](https://ubuntu.com/download/flavours) and other [Debian-based distros](https://www.debian.org/derivatives/)
  
- `apt install libsfml-dev`
+ `sudo apt install libsfml-dev`
