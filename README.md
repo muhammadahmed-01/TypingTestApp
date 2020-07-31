@@ -30,7 +30,6 @@
  
  `pacman -Syu sfml`
  
- ###### Debian, Elementary OS, Linux Mint, Ubuntu and its flavors and other [Debian-based distros](https://www.debian.org/derivatives/)
- See the Ubuntu flavors [here](https://ubuntu.com/download/flavours)
+ ###### Debian, Elementary OS, Linux Mint, Ubuntu and its [flavors](https://ubuntu.com/download/flavours) and other [Debian-based distros](https://www.debian.org/derivatives/)
  
  `apt install libsfml-dev`
