@@ -30,7 +30,7 @@
  
  ###### CentOS, Fedora and other [RPM-based distros](https://en.wikipedia.org/wiki/Category:RPM-based_Linux_distributions)
  
- `sudo yum -Syu sfml`
+ `sudo yum install sfml`
  
  ###### Debian, Elementary OS, Linux Mint, Ubuntu and its [flavors](https://ubuntu.com/download/flavours) and other [Debian-based distros](https://www.debian.org/derivatives/)
  
