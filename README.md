@@ -1,5 +1,7 @@
  ![](https://i.imgur.com/yo2br0C.png)
 
+ ![](https://i.imgur.com/53U5D2p.png)
+
  ## Overview
  [10fastfingers](https://10fastfingers.com/) clone for desktop
  
